@@ -1,16 +1,8 @@
-# weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Travel App
+Used=>
+•CubitLogics
+•Api
+•Tab Bar Controller
+•Carousel Slider
+![welcomePage](https://user-images.githubusercontent.com/57865985/178956211-418ea9fb-e4f5-4fe1-827f-d2c83708d89c.png= 240*720)
+![homePage](https://user-images.githubusercontent.com/57865985/178956226-491fca49-796b-40b3-a8d0-8107064efa65.png= 240*720)
